@@ -1,0 +1,8 @@
+[
+  {"plantName" :"Lavender", "scientificName": "Lavandula Angustifolia", "idealTemp":20, "waterNeeded":240  , "fact" : "Ancient Egyptions used this plant in mummifcication processes."}
+  {"plantName" :"Forget-me-not", "scientificName": "Myosotis Sylvatica", "idealTemp":20, "waterNeeded": 500, "fact" : "Their name originates from 'mouse's ear' due to the shape of the petals."}
+  {"plantName" :"Orchid", "scientificName": "Orchidaceae", "idealTemp":30 , "waterNeeded":60, "fact" : "Vanilla flavouring comes from a  type of orchid!"}
+  {"plantName" :"Royal Water Lily", "scientificName": "Victoria Amazonica", "idealTemp":30 , "waterNeeded": 1000, "fact" : "Some of these plants are strong enough to support a small child!"}
+  {"plantName" :"Desert Marigold", "scientificName": "Baileya Multiradiata", "idealTemp":35 , "waterNeeded": 200, "fact" : "Their leaves are covered in tiny hairs to reflect sunlight and reduce water loss."}
+  {"plantName" :"Golden Barrel Cactus", "scientificName": "Kroenleinia Grusonii", "idealTemp":35 , "waterNeeded": 30, "fact" : "The largest of this species can grow up to 3 foot tall and 3 foot wide."}
+]D
